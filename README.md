@@ -6,8 +6,8 @@ Designed with smooth animations, scroll effects, and a clean UI to showcase my *
 ---
 
 ## 🚀 Live Demo
-🔗 **[View Portfolio](#)**  
-*(Add your GitHub Pages or live site link here)*
+🔗 **[Gunasekharan.web.app](https://gunasekharancoder007.netlify.app/**  
+
 
 ---
 
@@ -29,6 +29,13 @@ Designed with smooth animations, scroll effects, and a clean UI to showcase my *
 ✅ Active section highlighting  
 ✅ Typing animation using Typed.js  
 ✅ Clean & modern UI/UX  
+
+---
+
+🧑‍💻 About Me
+
+Hi 👋 I’m Gunasekharan, a passionate Frontend & Software Developer.
+I enjoy building modern websites, applications, and games with a focus on performance, design, and user experience.
 
 ---
 
