@@ -6,7 +6,7 @@ Designed with smooth animations, scroll effects, and a clean UI to showcase my *
 ---
 
 ## 🚀 Live Demo
-🔗 **[Gunasekharan.web.app](https://gunasekharancoder007.netlify.app/**  
+🔗 **[Gunasekharan.web.app](https://gunasekharancoder007.netlify.app/)**  
 
 
 ---
