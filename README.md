@@ -1,7 +1,6 @@
 # 🌐 Personal Portfolio Website
-
-✨ A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
-🎨 Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
+         ✨ A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
+         🎨 Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
 
 ---
 
