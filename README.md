@@ -1,25 +1,47 @@
-# Gunasekharan | Portfolio
+# 🌐 Personal Portfolio Website
 
-A **modern and responsive portfolio website** showcasing my skills in **web, game, and app development**. Built with **HTML, CSS, and JavaScript**, it features smooth animations, a sticky navbar, and a mobile-friendly design.
-
----
-
-## Features
-
-- Responsive design for desktop and mobile  
-- Dark theme with light green highlights  
-- Hero section with typing effect using **Typed.js**  
-- Services and Portfolio sections with hover effects  
-- Contact form with inputs for name, email, subject, and message  
-- Sticky navbar and scroll animations using **ScrollReveal.js**  
+A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
+Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
 
 ---
 
-## Technologies Used
+## 🚀 Live Demo
+🔗 **[View Portfolio](#)**  
+*(Add your GitHub Pages or live site link here)*
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Boxicons  
-- ScrollReveal.js  
-- Typed.js  
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ScrollReveal](https://img.shields.io/badge/ScrollReveal-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Typed.js](https://img.shields.io/badge/Typed.js-3C873A?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+## ✨ Features
+
+✅ Fully responsive design  
+✅ Smooth scroll animations  
+✅ Sticky navigation bar  
+✅ Active section highlighting  
+✅ Typing animation using Typed.js  
+✅ Clean & modern UI/UX  
+
+---
+
+#ScreeShot
+<img width="1349" height="3557" alt="image" src="https://github.com/user-attachments/assets/0179bce4-2b8d-408d-ab95-d0e18c6c5b9f" />
+
+
+
+
+
+
+
+
+
+
+
