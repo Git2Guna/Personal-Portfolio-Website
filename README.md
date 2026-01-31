@@ -45,7 +45,3 @@ Hi 👋 I’m **Gunasekharan**, a passionate **Frontend & Software Developer**.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0179bce4-2b8d-408d-ab95-d0e18c6c5b9f" alt="Portfolio Screenshot" width="80%"/>
 </p>
-
-
-cd your-repo-name
-open index.html
