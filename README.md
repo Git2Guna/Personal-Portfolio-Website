@@ -1,9 +1,5 @@
 # 🌐 Personal Portfolio Website
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0179bce4-2b8d-408d-ab95-d0e18c6c5b9f" alt="Portfolio Banner" width="80%"/>
-</p>
-
 ✨ A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
 🎨 Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
 
