@@ -1,6 +1,7 @@
 # 🌐 Personal Portfolio Website
-         ✨ A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
-         🎨 Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
+
+✨ A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
+🎨 Designed with smooth animations, scroll effects, and a clean UI to showcase my **skills**, **services**, and **projects** 🚀
 
 ---
 
@@ -45,4 +46,6 @@ Hi 👋 I’m **Gunasekharan**, a passionate **Frontend & Software Developer**.
   <img src="https://github.com/user-attachments/assets/0179bce4-2b8d-408d-ab95-d0e18c6c5b9f" alt="Portfolio Screenshot" width="80%"/>
 </p>
 
----
+
+cd your-repo-name
+open index.html
