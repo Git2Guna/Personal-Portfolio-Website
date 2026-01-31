@@ -39,7 +39,7 @@ I enjoy building modern websites, applications, and games with a focus on perfor
 
 ---
 
-#ScreeShot
+#ScreenShot
 <img width="1349" height="3557" alt="image" src="https://github.com/user-attachments/assets/0179bce4-2b8d-408d-ab95-d0e18c6c5b9f" />
 
 
